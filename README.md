@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3N0d2Y3dWw3cmc2b3g3ZjJmcmIzNmV1NmVjYjI2Y2I5eHkwZGl0byZlcD12MV9pbnRlcm5hbF9naWYmY3Q9cw/QvO4lF7r0p8N8yQ9F7/giphy.gif" width="100"/>
+  
   <h1>Merhaba! Ben Ela Üstünkaya 👋</h1>
   <p>Bilgisayar Mühendisliği 3. sınıf öğrencisi ve Full-Stack Geliştirme alanında uzmanlaşmayı hedefleyen bir yazılımcıyım.</p>
 </div>
